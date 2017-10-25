@@ -1,5 +1,5 @@
 # Hello Team
-An intro page for our QA team repo
+An intro page for our QA (kiew-ay) team repo
 ___
 
 ## This GitHub Account

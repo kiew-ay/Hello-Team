@@ -18,10 +18,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________
 ## Miscellaneous
-
 * Git
   - [GitHub Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
-
 * Vim
   - [vim cheatsheet](http://www.google.com/url?q=http%3A%2F%2Fwww.viemu.com%2Fvi-vim-cheat-sheet.gif&sa=D&sntz=1&usg=AFQjCNFkPKH8OL08Jn4ifCqkqXvt1xmlVg)
   - [vim regex](http://vimregex.com/)

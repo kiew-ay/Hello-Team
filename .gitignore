@@ -1,0 +1,10 @@
+# Temp / swap files
+###################
+*.swo
+*.swp
+*~
+
+
+# Python
+########
+*.pyc
